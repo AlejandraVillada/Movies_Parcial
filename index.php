@@ -19,7 +19,7 @@
                             data-bs-parent="#sidebar"><i class="bi bi-bootstrap"></i> <i class="fa-solid fa-film"></i> <span>Películas</span>  </a>
                         <a href="src/informacion.php"
                             class="lista1 list-group-item border-end-0 d-inline-block text-truncate fondo-negro text-white"
-                            data-bs-parent="#sidebar"><i class="bi bi-film"></i><i class="fa-solid fa-circle-info"></i> <span>Informacion</span></a>
+                            data-bs-parent="#sidebar"><i class="bi bi-film"></i><i class="fa-solid fa-circle-info"></i> <span>Información</span></a>
                     </div>
 
                 </div>
@@ -67,9 +67,10 @@
                     </a>
                     <div style="float: right;" class="text-white">
                         
-Siguenos en 
-                    <a href=""><i class="fa-brands fa-instagram"></i></a>
-                    <a href=""><i class="fa-brands fa-facebook"></i></a>
+Siguenos en   
+                    <a class="m-1" href=""><i class="fa-brands fa-instagram fa-2x"></i></a>
+                    
+                    <a class="m-1"href=""><i class="fa-brands fa-facebook fa-2x"></i></a>
                     </div>
                 </div>
             </section>
