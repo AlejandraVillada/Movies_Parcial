@@ -1,0 +1,28 @@
+body {
+    /* background-color: #183153; */
+    background: linear-gradient(to bottom right, #183153, 60%, black);
+}
+
+.fondo-negro {
+    background-color: black;
+}
+
+#sidebar {
+    width: 250px;
+    box-shadow: 2px 2px white;
+}
+
+#sidebar a {
+    background-color: rgb(19, 19, 19);
+    border-left: none;
+    border-width: 1px !important;
+    border-color: #183153;
+}
+
+#sidebar a:hover {
+    background-color: #183153!important;
+}
+
+#movies .card {
+    height: 150px;
+}
