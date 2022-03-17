@@ -59,7 +59,7 @@
         
             <div class="col-md-3">
                 <div class="card" style="width: 14rem;">
-                    <img class="card-img-top" src="./public/Img/godzilla.jpg" alt="Card image cap"  height="250">
+                    <img class="card-img-top" src="./public/Img/Aquman.jpg" alt="Card image cap"  height="250">
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
@@ -68,7 +68,7 @@
 
                 <div class="col-md-3">
                 <div class="card" style="width: 14rem;">
-                    <img class="card-img-top" src="./public/Img/hobbit.jpg" alt="Card image cap" height="250" >
+                    <img class="card-img-top" src="./public/Img/avatar.jpg" alt="Card image cap" height="250" >
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
@@ -94,6 +94,7 @@
         </div>
 
 
+
         <div class="row mt-4">
         
         <div class="col-md-3">
@@ -115,7 +116,7 @@
             </div>
             <div class="col-md-3">
                 <div class="card" style="width: 14rem;">
-                    <img class="card-img-top" src="./public/Img/red.jpg" alt="Card image cap" height="250">
+                    <img class="card-img-top" src="./public/Img/mandalorian.jpg" alt="Card image cap" height="250">
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                         </div>
@@ -123,7 +124,7 @@
             </div>
             <div class="col-md-3">
                 <div class="card" style="width: 14rem;">
-                    <img class="card-img-top" src="./public/Img/woman.jpg" alt="Card image cap" height="250">
+                    <img class="card-img-top" src="./public/Img/story.jpg" alt="Card image cap" height="250">
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
@@ -131,6 +132,45 @@
             </div>
 
     </div>
+
+    <div class="row mt-4">
+        
+        <div class="col-md-3">
+            <div class="card" style="width: 14rem;">
+                <img class="card-img-top" src="./public/Img/exorcist.jpg" alt="Card image cap"  height="250">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+        </div>
+
+            <div class="col-md-3">
+            <div class="card" style="width: 14rem;">
+                <img class="card-img-top" src="./public/Img/once upon.jpg" alt="Card image cap" height="250" >
+                    <div class="card-body">
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card" style="width: 14rem;">
+                    <img class="card-img-top" src="./public/Img/joker.jpg" alt="Card image cap" height="250">
+                        <div class="card-body">
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card" style="width: 14rem;">
+                    <img class="card-img-top" src="./public/Img/venom.jpg" alt="Card image cap" height="250">
+                    <div class="card-body">
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
+                </div>
+            </div>
+
+    </div>
+
 
     </div>
 </section>
