@@ -14,7 +14,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="./public/Img/avengers.jpg" width="100" height="400" class="d-block w-100" alt="...">
+                <img src="./public/Img/end_game.png" width="100" height="400" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                 </div>
             </div>
