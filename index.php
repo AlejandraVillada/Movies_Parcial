@@ -19,7 +19,7 @@
                             data-bs-parent="#sidebar"><i class="bi bi-bootstrap"></i> <i class="fa-solid fa-film"></i> <span>Películas</span>  </a>
                         <a href="src/informacion.php"
                             class="lista1 list-group-item border-end-0 d-inline-block text-truncate fondo-negro text-white"
-                            data-bs-parent="#sidebar"><i class="bi bi-film"></i><i class="fa-solid fa-circle-info"></i> <span>Información</span></a>
+                            data-bs-parent="#sidebar"><i class="bi bi-film"></i><i class="fa-solid fa-film"></i> <span>Series</span></a>
                     </div>
 
                 </div>
